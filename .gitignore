@@ -12,6 +12,9 @@
 /[Aa]ssets
 
 !/[Aa]ssets/src
+!/[Aa]ssets/[Ss]prites
+
+
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
