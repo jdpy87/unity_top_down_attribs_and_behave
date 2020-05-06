@@ -9,10 +9,10 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-/[Aa]ssets
+/[Aa]ssets/*
 
 !/[Aa]ssets/src
-!/[Aa]ssets/[Ss]prites
+!/[Aa]ssets/Sprites
 
 
 
